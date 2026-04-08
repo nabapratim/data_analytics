@@ -2,7 +2,7 @@
 
 > 🔍 **End-to-end business analysis using SQL**  
 > 💼 Built to reflect **real analytics workflows in product & retail companies**  
-> 🎯 Focused on **decisions, not just dashboards**
+> 🎯 Focused on **decisions, not just a dashboards**
 
 ---
 
